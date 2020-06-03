@@ -1,0 +1,6 @@
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\bin\Debug\EmployeesAndPersons.dll
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\bin\Debug\EmployeesAndPersons.pdb
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\obj\Debug\EmployeesAndPersons.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\obj\Debug\EmployeesAndPersons.dll
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\obj\Debug\EmployeesAndPersons.pdb
+C:\Users\patry\Desktop\Programowanie Obiektowe\Laboratorium 2\Laboratory2\EmployeesAndPersons\obj\Debug\EmployeesAndPersons.csprojAssemblyReference.cache
